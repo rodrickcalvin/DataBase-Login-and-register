@@ -1,0 +1,31 @@
+﻿<Page x:Class="DB_login.display"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DB_login"
+      mc:Ignorable="d"
+      Title="display" Width="878.788" Height="466.667">
+
+    <Grid>
+        <materialDesign:Card Padding="32" Margin="0,10,11,0" HorizontalAlignment="Center" Height="109" Width="868">
+            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Width="219">Success</TextBlock>
+        </materialDesign:Card>
+        <DataGrid AutoGenerateColumns="False"
+                  Height="329"
+                  HorizontalAlignment="Left"
+                  Name="dbtable"
+                  VerticalAlignment="Top"
+                  Width="858" Margin="10,128,0,0" SelectionChanged="dbtable_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=ID}" MinWidth="50"/>
+                <DataGridTextColumn Binding="{Binding Path=Hospital}" MinWidth="150"/>
+                <DataGridTextColumn Binding="{Binding Path=Location}" MinWidth="150"/>
+                <DataGridTextColumn Binding="{Binding Path=Email}" MinWidth="150"/>
+                <DataGridTextColumn Binding="{Binding Path=Contact}" MinWidth="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>

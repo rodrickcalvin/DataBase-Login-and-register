@@ -1,0 +1,23 @@
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\DB login.exe.config
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\DB login.exe
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\DB login.pdb
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MaterialDesignColors.dll
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\MainWindow.g.cs
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\App.g.cs
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login_MarkupCompile.cache
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login_MarkupCompile.lref
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\App.baml
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\MainWindow.baml
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login.g.resources
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB_login.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login.exe
+c:\users\owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\DB login.pdb
+C:\Users\Owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MySql.Data.dll
+C:\Users\Owner\documents\visual studio 2017\Projects\DB login\DB login\bin\Debug\MySql.Data.xml
+C:\Users\Owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\display.g.cs
+C:\Users\Owner\documents\visual studio 2017\Projects\DB login\DB login\obj\Debug\display.baml

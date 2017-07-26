@@ -1,0 +1,20 @@
+﻿<Window x:Class="DB_login.Register_window"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_login"
+        mc:Ignorable="d"
+        Title="Register_window" Height="400" Width="500">
+    <Grid>
+        <TextBox
+                x:Name="Txt_Usernamereg"
+                materialDesign:HintAssist.Hint="Username/Email"
+                materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
+                materialDesign:HintAssist.FloatingScale="0.50"                 
+                Text=""
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                FontSize="21" Margin="10,27,10,281" RenderTransformOrigin="0.518,-0.942" />
+    </Grid>
+</Window>
